@@ -1,1 +1,1 @@
-# My solution to Codeforce problems
+# My solution to Codeforces problems
